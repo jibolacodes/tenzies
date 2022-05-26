@@ -1,2 +1,1 @@
-# tenzies
-Tenzies game created using React.js
+Tenzies: A game created using React.js.
